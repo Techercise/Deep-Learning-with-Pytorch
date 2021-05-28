@@ -1,2 +1,2 @@
 # Deep-Learning-with-Pytorch
-Code I used when reading Deep Learning with Pytorch by Eli Stevens, Luca Antiga, and Thomas Viehmann
+This repository contains files from the Deep Learning with Pytorch book by Eli Stevens, Luca Antiga, and Thomas Viehmann and their repository found [here](https://github.com/deep-learning-with-pytorch/dlwpt-code). As I progress through the book, I am completing the exercises they present. For the Chapter 2 exercises, the only difference from my notebooks and theirs is that I am using different images to run inference on the networks used.
